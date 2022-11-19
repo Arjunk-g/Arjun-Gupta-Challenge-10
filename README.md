@@ -12,3 +12,5 @@ Mostly all JS is complete, inquirer and jest packages were installed, and HTML C
 
 
 Screenshot of Project:
+
+![Challenge 10 screenshot](https://user-images.githubusercontent.com/112139137/202875223-27898d5e-6c9d-4da0-83d2-c10f8aa4dfaf.PNG)
